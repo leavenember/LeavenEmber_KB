@@ -155,6 +155,12 @@ K resettable fuse PTC PPTC polyfuse polyswitch
 F ~
 $ENDCMP
 #
+$CMP R_Pack02_Split
+D 2 resistor network, parallel topology, split
+K R network parallel topology isolated
+F ~
+$ENDCMP
+#
 $CMP R_Small
 D Resistor, small symbol
 K R resistor
